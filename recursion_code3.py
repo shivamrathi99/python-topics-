@@ -9,7 +9,7 @@ def linear(n):
 linear((int(input())))
 # linear(5), o/p = 5 4 3 2 1 
 
-# order matters, it will print from 1 to N as first it will reach base condition, then move to the next line(print statement)
+# order matters, it will print from 1 to N as first it will reach base condition, then move to the next line(print statement), this is the concept of backtracking
 
 def linear(n):
     if n :
